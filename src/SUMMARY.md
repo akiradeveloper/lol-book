@@ -1,4 +1,16 @@
 # Summary
 
-
-- [Chapter 1](./chapter_1.md)
+- [Architecture](overview-architecture.md)
+  - [Log and Snapshot](log-snapshot.md)
+  - [Snapshot Tag](snapshot-tag.md)
+  - [Storage Abstraction](storage-abstraction.md)
+  - [Snapshot Types](snapshot-types.md)
+- [Client Interaction](interaction-types.md)
+  - [Optimized Query Processing](query-processing.md)
+  - [Gateway](gateway.md)
+- [Cluster Management](cluster-management.md)
+  - [Single-server changes](membership-change.md)
+  - [Leader Liveness](leader-liveness.md)
+  - [Leadership Transfer Extension](timeout-now.md)
+- [Tools](tools.md)
+- [References](references.md)
