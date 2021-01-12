@@ -1,4 +1,4 @@
-# How to interact with the cluster
+# Client Interactions
 
 In Raft, command is sent to the leader and the command is processed by the state machine. That is the textbook description.
 
