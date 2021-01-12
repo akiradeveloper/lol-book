@@ -1,4 +1,4 @@
-# Cluster Management APIs
+# Cluster Management
 
 In lol adding and removing a server to and from the cluster is just an extension of normal log replication. This means the cluster must have a leader to accept spacial requests: `AddServer` and `RemoveServer` which leads to append a special command called `ClusterConfiguration`.
 

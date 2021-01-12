@@ -1,4 +1,4 @@
-# The principle in membership change: single-server changes
+# Single-server changes
 
 There are two ways to change the cluster membership in Raft: one is by joint concensus algorithm and the another is single-server changes.
 
