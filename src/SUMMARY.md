@@ -13,6 +13,5 @@
 - [Election](election.md)
   - [Leader Liveness](leader-liveness.md)
   - [Leadership Transfer Extension](timeout-now.md)
-  - [Pre-Vote Phase](pre-vote.md)
 - [Tools](tools.md)
 - [References](references.md)

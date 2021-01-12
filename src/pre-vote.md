@@ -1,3 +1,0 @@
-# Pre-Vote Phase
-
-TODO
