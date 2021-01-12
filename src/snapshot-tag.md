@@ -1,4 +1,4 @@
-# How snapshots are managed
+# Snapshot Resource and Tag
 
 In the previous section, you have learned that the snapshot is placed in somewhere outside the log entry and copy to other nodes in streaming.
 

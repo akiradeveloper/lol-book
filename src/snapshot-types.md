@@ -1,4 +1,4 @@
-# Copy snapshot and Fold snapshot
+# Snapshot Types (Copy and Fold)
 
 The most difficult part of Raft implementation is how to deal with the snapshot. If you are a Raft implementator you must agree.
 

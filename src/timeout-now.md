@@ -1,4 +1,4 @@
-# Leadership Transfer
+# Leadership Transfer Extension
 
 In Raft, leader is chosen by election.
 Election happens when follower considers leader is dead.
