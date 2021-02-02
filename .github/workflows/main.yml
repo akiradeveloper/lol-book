@@ -19,5 +19,5 @@ jobs:
       with:
         deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
         external_repository: akiradeveloper/lol
-        PUBLISH_BRANCH: doc
+        PUBLISH_BRANCH: book
         PUBLISH_DIR: ./book
