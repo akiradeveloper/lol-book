@@ -1,6 +1,6 @@
 # Storage Abstraction
 
-`RaftStorage` is the abstraction of backing storage.
+`RaftStorage` is the abstraction of the backing storage.
 Conceptually, it includes the recent vote, log and snapshot tags. Every snapshot entry has a corresponding snapshot tag that points to actual snapshot resource.
 
 By default, lol provides two implementations: one is in-memory type using BTreeMap and the another is persistent type using RocksDB. In most cases, you don't need to implement your own but choose from these two.
